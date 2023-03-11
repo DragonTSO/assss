@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="">
+            <menu>
+                <item android:title="Nghe Nhạc"
+
+                    android:id="@+id/nav_music"/>
+                <item android:title="Tin Tức"
+
+                    android:id="@+id/nav_tt"/>
+                <item android:title="Quản Lý Tài Khoản "
+
+                    android:id="@+id/nav_tk"/>
+            </menu>
+        </item>
+        <item android:title="" >
+            <menu>
+                <item android:title="Cập Nhật Avatar"
+
+                    android:id="@+id/nav_ava"/>
+                <item android:title="Đổi Mật Khẩu "
+
+                    android:id="@+id/nav_mk"/>
+                <item android:title="Danh Sách Bài Hát"
+
+                    android:id="@+id/nav_list_music"/>
+                <item android:title="Đăng Xuất"
+
+                    android:id="@+id/nav_logout"/>
+            </menu>
+        </item>
+    </group>
+</menu>
