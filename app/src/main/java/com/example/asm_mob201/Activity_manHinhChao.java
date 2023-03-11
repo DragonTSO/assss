@@ -19,5 +19,6 @@ public class Activity_manHinhChao extends AppCompatActivity {
                 startActivity(new Intent(Activity_manHinhChao.this , MainActivity_Login.class));
             }
         },2000);
+        /////ádasdsadasd
     }
 }
